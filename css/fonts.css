@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Inter 18pt';
+    src: local('Inter 18pt Bold'), local('Inter18pt-Bold'),
+        url('../fonts/Inter18pt-Bold.woff2') format('woff2'),
+        url('../fonts/Inter18pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter 24pt';
+    src: local('Inter 24pt Medium Italic'), local('Inter24pt-MediumItalic'),
+        url('../fonts/Inter24pt-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Inter24pt-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: local('Poppins Bold'), local('Poppins-Bold'),
+        url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: local('Poppins Medium'), local('Poppins-Medium'),
+        url('../fonts/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/Poppins-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
